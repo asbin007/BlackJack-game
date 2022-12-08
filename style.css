@@ -1,0 +1,39 @@
+body {
+   
+   
+  text-align: center;
+  background-color: #68b984;
+  font-family: "Ubuntu", sans-serif;
+  font-family: "Zen Dots", cursive;
+  font-size: 2rem;
+  background-image: url(https://cdn.pixabay.com/photo/2015/12/01/15/43/black-1072366_1280.jpg);
+}
+.container{
+    margin: 0;
+    padding: 1%;
+}
+ h1{
+    color: goldenrod;
+
+ }
+ p{
+    font-size: 2rem;
+ }
+ button{
+    border-radius:30px ;
+    background-color: gold;
+    font-size: 2rem;
+    font-family: "Zen Dots", cursive;
+    margin-top: 5%;
+    font-weight: bold;
+    display: inline-flex;
+    border-color: darkkhaki;
+    /* margin-bottom: 4px; */
+    
+
+    
+    
+
+
+
+ }
